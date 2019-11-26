@@ -1,4 +1,4 @@
-module ssh_sftp_conpool
+module ssh_sftp_connection_pool
 
 go 1.13
 
