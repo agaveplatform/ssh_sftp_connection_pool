@@ -7,6 +7,8 @@ The documentation is located at https://godoc.org/github.com/0xef53/go-sshpool
 
 The fork was done to open the client variable in the SSHConn struct.  The change was made from "client" to "Client".
 
+
+
 go-sshpool
 GoDoc
 
@@ -46,4 +48,3 @@ fmt.Println(string(output))
 fmt.Println("Active connections:", p.ActiveConns())
 Documentation
 Use Godoc documentation for reference and usage.
-
